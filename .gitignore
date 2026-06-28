@@ -1,0 +1,32 @@
+# Compiled output
+target/
+out/
+build/
+bin/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# macOS
+.DS_Store
+
+# Logs / misc
+*.log
+feedback*.log
